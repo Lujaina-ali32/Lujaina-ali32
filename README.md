@@ -7,16 +7,17 @@
 </p>
 
 <!-- Profile Views Badge -->
-<p >
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=for-the-badge" />
 </p>
 
-<img align="right" alt="coding" width="360" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/41/03/f0/4103f0977a1835c4304b7d020a33f85b.gif">
 
 ---
 
 ## 👩‍💻 About Me
-✨ I’m a passionate *Frontend Developer* who loves crafting smooth, responsive, and visually appealing web interfaces.
+✨ I’m a passionate Frontend Developer who loves crafting smooth, responsive, and visually appealing web interfaces.
 
 - 🌱 Currently learning *Web & App Development*
 - 🤝 Collaborating on *Frontend Projects & Quiz Websites*
@@ -47,9 +48,10 @@
 ---
 
 ## 📊 GitHub Analytics  
-### 🔥 Streak  
+
+### 🔥 Current Streak (Auto Updates Daily)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&hide_border=true" />
 </p>
 
 ### 📘 Most Used Languages  
@@ -57,4 +59,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
+---
 
+## 🧩 Featured Projects (Optional — Add If You Want)
+<!-- Add your project links here -->
+<p align="left">
+
+🔹 *Redline Motors (Tailwind + Firebase)*  
+👉 Live Demo:  
+👉 GitHub Repo:  
+
+🔹 *Quiz App (JavaScript + CSS)*  
+👉 Live Demo:  
+👉 GitHub Repo:  
+
+</p>
+
+---
+
+## 📸 Project Snapshots (Optional)
+<p align="center">
+  <img src="https://via.placeholder.com/400x220?text=Project+1+Screenshot" width="380" />
+  <img src="https://via.placeholder.com/400x220?text=Project+2+Screenshot" width="380" />
+</p>
