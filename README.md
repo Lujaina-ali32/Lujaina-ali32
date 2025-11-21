@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=1000&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Tech+Enthusiast;Web+%26+App+Developer;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=flat" alt="profile views" />
 </p>
 
