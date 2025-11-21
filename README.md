@@ -48,15 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 🎨 Extra Styling (Optional More Sections)
-If you want, I can also add:
-
-✨ Contribution Graph Animation  
-✨ GitHub Trophies  
-✨ Profile Badges  
-✨ Custom Banner Header  
-✨ Achievements Section  
-✨ Featured Projects Section  
-
