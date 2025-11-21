@@ -7,7 +7,7 @@
 </p>
 
 <!-- Profile Views Badge -->
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=for-the-badge" />
 </p>
 
@@ -57,9 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
----
 
-## ✨ My Developer Vibe  
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="coding gif"/>
-</p>
