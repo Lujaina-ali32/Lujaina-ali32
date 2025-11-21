@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lujaina Ali</h1>
-<h3 align="center">Frontend Developer Creating Clean, Modern & User-Focused Web Experiences</h3>
+<h3 align="center">Frontend Developer — Creating Clean, Modern & User-Focused Web Experiences</h3>
 
 <!-- Typing Effect -->
 <p align="center">
@@ -57,5 +57,3 @@
 ### 📘 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
-
