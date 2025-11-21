@@ -3,7 +3,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?](https://i.pinimg.com/736x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg)font=Kanit&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;Clean+UI%2FUX+Lover;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;Clean+UI%2FUX+Lover;Always+Learning%2C+Always+Improving" />
 </p>
 
 <!-- Profile Views Badge -->
@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=for-the-badge" />
 </p>
 
-<!-- Coding GIF -->
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/41/03/f0/4103f0977a1835c4304b7d020a33f85b.gif">
+<!-- Side Image -->
+<img align="right" alt="coding illustration" width="350" src="https://i.pinimg.com/736x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg">
 
 ---
 
@@ -57,3 +57,4 @@
 ### 📘 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</p>
