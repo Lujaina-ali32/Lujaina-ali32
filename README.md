@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lujaina Ali</h1>
-<h3 align="center">Frontend Developer — Creating Clean, Modern & User-Focused Web Experiences</h3>
+<h3 align="center">Frontend Developer Creating Clean, Modern & User-Focused Web Experiences</h3>
 
 <!-- Typing Effect -->
 <p align="center">
