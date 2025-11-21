@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=1000&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Tech+Enthusiast;Web+%26+App+Developer;Learning+AI+%2F+Web3+%2F+Metaverse" alt="Typing SVG" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=flat" alt="profile views" />
+</p>
+
 <img align="right" alt="coding" width="380" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
 
 - 🌱 Currently learning Web & App Development
@@ -12,14 +16,6 @@
 - 💬 Ask me about TypeScript, CSS, HTML, JavaScript, Tailwind, Bootstrap, GitHub
 - 📫 Email me at lujainaali10@gmail.com
 
----
-
-## 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=flat" alt="profile views" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="left">
