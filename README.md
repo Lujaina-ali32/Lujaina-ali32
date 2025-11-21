@@ -7,10 +7,17 @@
 
 <img align="right" alt="coding" width="380" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
 
-- 🌱 Currently learning *Web & App Development*
-- 👯 Looking to collaborate on *Quiz Websites*
-- 💬 Ask me about *TypeScript, CSS, HTML, JavaScript , Tailwind , Bootstrap, Github*
-- 📫 Email me at *lujainaali10@gmail.com*
+- 🌱 Currently learning Web & App Development
+- 👯 Looking to collaborate on Quiz Websites
+- 💬 Ask me about TypeScript, CSS, HTML, JavaScript, Tailwind, Bootstrap, GitHub
+- 📫 Email me at lujainaali10@gmail.com
+
+---
+
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=flat" alt="profile views" />
+</p>
 
 ---
 
@@ -39,12 +46,9 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <!-- AUTO-UPDATED CURRENT STREAK -->
   <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- TOP LANGUAGES -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true" />
 </p>
-
