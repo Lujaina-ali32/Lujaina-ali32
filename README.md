@@ -3,63 +3,65 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;Clean+UI%2FUX+Lover;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=2500&pause=800&color=A45CFF&center=true&vCenter=true&width=520&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;UI%2FUX+Focused;Always+Learning+%26+Improving" />
 </p>
 
-<!-- Profile Views Badge -->
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile+Views&color=A45CFF&style=for-the-badge" />
 </p>
 
-<img align="right" alt="coding" width="360" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="350" style="border-radius: 10px;" src="https://i.pinimg.com/originals/41/03/f0/4103f0977a1835c4304b7d020a33f85b.gif">
 
 ---
 
 ## 👩‍💻 About Me
-✨ I’m a passionate *Frontend Developer* who loves crafting smooth, responsive, and visually appealing web interfaces.
+✨ I’m a passionate *Frontend Developer* focused on building responsive, modern, and visually appealing web interfaces.
 
 - 🌱 Currently learning *Web & App Development*
-- 🤝 Collaborating on *Frontend Projects & Quiz Websites*
+- 🤝 Open to collaborating on *Frontend Projects & Quiz Websites*
 - 💬 Ask me about *JavaScript, TypeScript, Tailwind CSS, HTML, CSS, Bootstrap, GitHub*
 - 📧 Reach me at *lujainaali10@gmail.com*
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/lujaina-ali" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools  
+## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="48"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
-### 🔥 Streak  
+## 📊 GitHub Analytics
+
+### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-### 📘 Most Used Languages  
+### 📘 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-## ✨ My Developer Vibe  
+## ✨ My Developer Vibe
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360" />
 </p>
