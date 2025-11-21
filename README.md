@@ -3,7 +3,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;Clean+UI%2FUX+Lover;Always+Learning%2C+Always+Improving" />
+  <img src="[https://readme-typing-svg.herokuapp.com?](https://i.pinimg.com/736x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg)font=Kanit&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;Clean+UI%2FUX+Lover;Always+Learning%2C+Always+Improving" />
 </p>
 
 <!-- Profile Views Badge -->
