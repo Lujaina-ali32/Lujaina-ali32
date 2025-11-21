@@ -59,26 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
----
-
-## 🧩 Featured Projects (Optional — Add If You Want)
-<!-- Add your project links here -->
-<p align="left">
-
-🔹 *Redline Motors (Tailwind + Firebase)*  
-👉 Live Demo:  
-👉 GitHub Repo:  
-
-🔹 *Quiz App (JavaScript + CSS)*  
-👉 Live Demo:  
-👉 GitHub Repo:  
-
-</p>
-
----
-
-## 📸 Project Snapshots (Optional)
-<p align="center">
-  <img src="https://via.placeholder.com/400x220?text=Project+1+Screenshot" width="380" />
-  <img src="https://via.placeholder.com/400x220?text=Project+2+Screenshot" width="380" />
-</p>
