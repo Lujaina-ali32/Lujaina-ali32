@@ -7,9 +7,9 @@
 
 <img align="right" alt="coding" width="380" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
 
-- 🌱 Currently learning *Web & App Development, AI, Web3 & Metaverse*
+- 🌱 Currently learning *Web & App Development*
 - 👯 Looking to collaborate on *Quiz Websites*
-- 💬 Ask me about *TypeScript, React, CSS, HTML, JavaScript*
+- 💬 Ask me about *TypeScript, CSS, HTML, JavaScript , Tailwind , Bootstrap, Github*
 - 📫 Email me at *lujainaali10@gmail.com*
 
 ---
@@ -30,8 +30,6 @@
 <img src="https://skillicons.dev/icons?i=css" width="45"/>
 <img src="https://skillicons.dev/icons?i=js" width="45"/>
 <img src="https://skillicons.dev/icons?i=ts" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
 
@@ -62,5 +60,3 @@ If you want, I can also add:
 ✨ Achievements Section  
 ✨ Featured Projects Section  
 
-Just tell me jaanu and I’ll make it *even more perfect* 💖🔥  
-Want me to add more?
