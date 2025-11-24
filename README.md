@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Analytics  
 
-### 🔥 Current Streak (Auto Updates Daily)
+### 🔥 Current Streak 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&hide_border=true" />
 </p>
