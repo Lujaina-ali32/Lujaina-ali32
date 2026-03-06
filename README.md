@@ -1,60 +1,106 @@
-<h1 align="center">Hi 👋, I'm Lujaina Ali</h1>
-<h3 align="center">Frontend Developer — Creating Clean, Modern & User-Focused Web Experiences</h3>
+<h1 align="center">Hi 👋 I'm Lujaina Ali</h1>
+<h3 align="center">Frontend Developer | Building Modern & Responsive Web Experiences</h3>
 
-<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+%26+App+Developer;Tech+Enthusiast;Clean+UI%2FUX+Lover;Always+Learning%2C+Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;UI%2FUX+Enthusiast;Building+Beautiful+Websites;Always+Learning+New+Technologies"/>
 </p>
-
-<!-- Profile Views Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9f37ff&style=for-the-badge" />
-</p>
-
-<!-- Side Image -->
-<img align="right" alt="coding illustration" width="350" src="https://i.pinimg.com/736x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg">
 
 ---
+
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👩‍💻 About Me
-✨ I’m a passionate Frontend Developer who loves crafting smooth, responsive, and visually appealing web interfaces.
 
-- 🌱 Currently learning *Web & App Development*
-- 🤝 Collaborating on *Frontend Projects & Quiz Websites*
-- 💬 Ask me about *JavaScript, TypeScript, Tailwind CSS, HTML, CSS, Bootstrap, GitHub*
-- 📧 Reach me at *lujainaali10@gmail.com*
+✨ Passionate **Frontend Developer** focused on building clean, responsive, and user-friendly interfaces.
+
+- 🌱 Currently learning **Web & App Development**
+- 💻 Building **React Projects & Interactive Web Apps**
+- 🎯 Goal: Become a **Full-Stack Developer**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript**
+- 📫 Email: **lujainaali10@gmail.com**
 
 ---
 
-## 🌐 Connect with Me  
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/lujaina-ali" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
+<a href="https://linkedin.com/in/lujaina-ali">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="48"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/>
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+# 📊 GitHub Stats
 
-### 🔥 Current Streak 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lujaina-ali32&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lujaina-ali32&show_icons=true&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lujaina-ali32&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true"/>
+
 </p>
 
-### 📘 Most Used Languages  
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lujaina-ali32&theme=react-dark&hide_border=true"/>
 </p>
+
+---
+
+# 🌟 Featured Projects
+
+🚀 **Mini Game Hub**  
+Interactive mini games built with JavaScript.
+
+🧠 **Memory Game**  
+Fun card matching game to test memory skills.
+
+🎨 **Frontend Portfolio Website**  
+Responsive personal portfolio using HTML, CSS & JS.
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+_"First, solve the problem. Then, write the code."_  
+– John Johnson
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
