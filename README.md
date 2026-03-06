@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋 I'm Lujaina Ali</h1>
-<h3 align="center">Frontend Developer | Building Modern & Responsive Web Experiences</h3>
+<h3 align="center">Frontend Developer | Creating Clean, Modern & Responsive Web Experiences</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=9F37FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;UI%2FUX+Enthusiast;Building+Beautiful+Websites;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20Views&color=9F37FF&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Frontend%20Developer-9F37FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Web%20Development-Focused-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -34,17 +45,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=ts"/>
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode&perline=5"/>
 </p>
 
 ---
@@ -53,11 +54,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lujaina-ali32&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lujaina-ali32&show_icons=true&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lujaina-ali32&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=lujaina-ali32&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lujaina-ali32&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -71,16 +76,27 @@
 
 ---
 
+# 🧠 GitHub Activity Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lujaina-ali32&theme=radical"/>
+</p>
+
+---
+
 # 🌟 Featured Projects
 
-🚀 **Mini Game Hub**  
-Interactive mini games built with JavaScript.
+<p align="center">
 
-🧠 **Memory Game**  
-Fun card matching game to test memory skills.
+<a href="https://github.com/lujaina-ali32">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lujaina-ali32&repo=Mini-Game-Hub&theme=radical"/>
+</a>
 
-🎨 **Frontend Portfolio Website**  
-Responsive personal portfolio using HTML, CSS & JS.
+<a href="https://github.com/lujaina-ali32">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lujaina-ali32&repo=Memory-Game&theme=radical"/>
+</a>
+
+</p>
 
 ---
 
@@ -88,8 +104,8 @@ Responsive personal portfolio using HTML, CSS & JS.
 
 <p align="center">
 
-_"First, solve the problem. Then, write the code."_  
-– John Johnson
+"First, solve the problem. Then, write the code."  
+— John Johnson
 
 </p>
 
@@ -98,9 +114,12 @@ _"First, solve the problem. Then, write the code."_
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+---
+
+<h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
 ---
 
 <h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
