@@ -22,15 +22,14 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate **Frontend Developer** dedicated to building clean, responsive, and user-friendly web applications. I love combining creativity with code to create **modern digital experiences**.
+I am a passionate **Frontend Developer** dedicated to building clean, responsive, and user-friendly web applications. I combine creativity with code to create **modern digital experiences**.
 
-- 🌱 Currently improving my skills in **Web & App Development**
-- 💻 Building **React projects & interactive web apps**
-- 🎯 Aspiring to become a **Full-Stack Developer**
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript**
+- 🌱 Currently improving my skills in **Web & App Development**  
+- 💻 Building **React projects & interactive web apps**  
+- 🎯 Aspiring to become a **Full-Stack Developer**  
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript**  
 - 📫 Contact me at **[lujainaali10@gmail.com](mailto:lujainaali10@gmail.com)**
 
----
 ---
 
 ## 💼 What I Can Do
@@ -53,47 +52,35 @@ I am a passionate **Frontend Developer** dedicated to building clean, responsive
 
 ## 📂 Project Highlights
 
-🔹 **Mini Game Hub**
-- 3 Interactive browser games
-- Built with HTML, CSS, JavaScript
-- Focus on DOM manipulation and logic
-
-🔹 **Memory Game**
-- Interactive card matching game
-- Clean UI with responsive design
-- Focus on user experience
-
-🔹 **Responsive Landing Pages**
-- Modern layouts
-- Mobile friendly UI
-- Clean CSS structure
+🔹 **Mini Game Hub** – 3 Interactive browser games, built with HTML, CSS, JavaScript  
+🔹 **Memory Game** – Interactive card matching game with responsive design  
+🔹 **Responsive Landing Pages** – Modern layouts and mobile-friendly UI  
 
 ---
 
 ## 📈 Currently Learning
 
 🚀 **React Advanced Concepts**  
-⚡ **TypeScript for scalable apps**  
-🎨 **UI/UX design principles**
+⚡ **TypeScript for Scalable Apps**  
+🎨 **UI/UX Design Principles**  
 
 ---
 
 ## 🏆 Coding Challenge
 
 🌙 Completed **30 Days Ramadan Coding Challenge**  
-Building projects daily to improve **problem solving & frontend skills**
+- Built daily projects to enhance **problem-solving & frontend skills**
 
 ---
 
 ## 🤝 Open For Opportunities
 
-💼 Available for:
-
+💼 Available for:  
 ✔ Freelance Projects  
 ✔ Frontend Developer Roles  
 ✔ Collaboration on Open Source  
 
-📩 **Email:** lujainaali10@gmail.com
+📩 **Email:** [lujainaali10@gmail.com](mailto:lujainaali10@gmail.com)
 
 ---
 
@@ -116,7 +103,7 @@ Building projects daily to improve **problem solving & frontend skills**
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode&perline=5" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode&perline=5"/>
 </p>
 
 ---
@@ -165,4 +152,3 @@ Building projects daily to improve **problem solving & frontend skills**
 ---
 
 <h3 align="center">⭐ If you like my work, give my repositories a star!</h3>
-<h3 align="center">⭐ If you like my work, consider giving my repositories a star!</h3>
