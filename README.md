@@ -61,7 +61,6 @@ I am a passionate **Frontend Developer** dedicated to building clean, responsive
 ## 📈 Currently Learning
 
 🚀 **React Advanced Concepts**  
-⚡ **TypeScript for Scalable Apps**  
 🎨 **UI/UX Design Principles**  
 
 ---
