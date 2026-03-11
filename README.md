@@ -31,6 +31,71 @@ I am a passionate **Frontend Developer** dedicated to building clean, responsive
 - 📫 Contact me at **[lujainaali10@gmail.com](mailto:lujainaali10@gmail.com)**
 
 ---
+---
+
+## 💼 What I Can Do
+
+✔ Build **Responsive Websites** (Mobile Friendly)  
+✔ Convert **Figma / Design to Code**  
+✔ Create **Modern UI with HTML, CSS, Tailwind**  
+✔ Develop **Interactive Web Apps using JavaScript & React**  
+✔ Fix UI bugs and improve **website performance**
+
+---
+
+## 🛠 Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,tailwind,bootstrap,git,github,vscode&perline=6"/>
+</p>
+
+---
+
+## 📂 Project Highlights
+
+🔹 **Mini Game Hub**
+- 3 Interactive browser games
+- Built with HTML, CSS, JavaScript
+- Focus on DOM manipulation and logic
+
+🔹 **Memory Game**
+- Interactive card matching game
+- Clean UI with responsive design
+- Focus on user experience
+
+🔹 **Responsive Landing Pages**
+- Modern layouts
+- Mobile friendly UI
+- Clean CSS structure
+
+---
+
+## 📈 Currently Learning
+
+🚀 **React Advanced Concepts**  
+⚡ **TypeScript for scalable apps**  
+🎨 **UI/UX design principles**
+
+---
+
+## 🏆 Coding Challenge
+
+🌙 Completed **30 Days Ramadan Coding Challenge**  
+Building projects daily to improve **problem solving & frontend skills**
+
+---
+
+## 🤝 Open For Opportunities
+
+💼 Available for:
+
+✔ Freelance Projects  
+✔ Frontend Developer Roles  
+✔ Collaboration on Open Source  
+
+📩 **Email:** lujainaali10@gmail.com
+
+---
 
 ## 🌐 Connect With Me
 
